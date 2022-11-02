@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddf69a4b-566d-45e9-b060-51fb1c1ebb31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aula4/Aula4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula4/src/exe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula5/Aula5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula5/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula5/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula5/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha3/Ficha3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha3/src/CaesarCipherDecipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha4/Ficha4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha4/src/CharacterDrawingUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha4/src/MatrixUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/Ficha6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MatrixUtilities/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MatrixUtilities/MatrixUtilities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GqjYKEZC9gK7iK2zRbI7htyPE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddf69a4b-566d-45e9-b060-51fb1c1ebb31" name="Changes" comment="" />
+      <created>1667123055811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667123055811</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
