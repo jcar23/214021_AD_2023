@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4e5ed33-ca93-479e-a4d0-67b2ffa217a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/Collections Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/out/production/Collections Test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/out/production/Collections Test/Stadium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/out/production/Collections Test/Team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/src/Stadium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections Test/src/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumerados/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumerados/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumerados/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumerados/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumerados/Enumerados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumerados/out/production/Enumerados/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumerados/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enumerados/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/shapes/PointComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Human/src/Earth_Surface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pratica6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Pratica6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapes/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapes/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicles/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scanner test/Ficha 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scanner test/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/out/production/Ficha6/pt/uma/tpsi/arqd/shapes/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/out/production/Ficha6/pt/uma/tpsi/arqd/shapes/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/out/production/Ficha6/pt/uma/tpsi/arqd/shapes/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/out/production/Ficha6/pt/uma/tpsi/arqd/shapes/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/shapes/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/shapes/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/shapes/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/vehicles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/vehicles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficha6/src/pt/uma/tpsi/arqd/vehicles/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Human/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Human/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Human/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Human/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HGK5rzQMqOnzKU0Zp96ZTaEvzV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4e5ed33-ca93-479e-a4d0-67b2ffa217a1" name="Changes" comment="" />
+      <created>1667905801998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667905801998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

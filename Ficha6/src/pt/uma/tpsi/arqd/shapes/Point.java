@@ -1,6 +1,6 @@
 package pt.uma.tpsi.arqd.shapes;
 
-public class Point {
+public class Point implements Comparable<Point> {
     private double x;
     private double y;
     //Contractor por
@@ -41,5 +41,28 @@ public class Point {
     @Override
     public String toString(){
         return getClass().getSimpleName() + " { " + " X: " + x + ", y: " + y + " }";
+    }
+
+
+
+    /// 2022/11/07 Monday.
+    @Override
+    public boolean equals(Object obj) {
+        Point other = (Point) obj;
+        if (this.x == other.x && this.y == other.y)
+            return true;
+        else
+            return false;
+    }
+
+    /// ############## IMPORTANT FOR THE TEST
+    @Override
+    public int compareTo(Point o) {
+        // ordenar de forma crescente;
+        int diff = (int) ((this.x - o.x) + (this.y - o.y));
+        // ordenar de forma decrescente;
+        // int diff = (int) ((o.x - this.x) + (o.y - this.y));
+
+        return diff;
     }
 }

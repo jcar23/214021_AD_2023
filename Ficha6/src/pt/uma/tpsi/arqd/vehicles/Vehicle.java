@@ -70,7 +70,7 @@ public abstract class Vehicle {
     @Override
     // esse method vai ser usado
     public String toString(){
-        return "Brand" + this.brand + ", Model: " +
+        return "Brand: " + this.brand + ", Model: " +
                 this.model + ", year: " + this.year + ", price: " +
                 this.price + ", color: " + this.color;
     }
