@@ -54,9 +54,10 @@ public class Rational implements Comparable<Rational>{
         return numerator == rational.numerator && denominator == rational.denominator;
     }
 */
+
     @Override
     public int hashCode() {
-        return Objects.hash(numerator, denominator);
+        return Objects.hash(numerator, denominator, o);
     }
 
     @Override

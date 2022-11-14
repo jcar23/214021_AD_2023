@@ -2,61 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1c1ee52-b55d-4a96-8f68-2d2504cf6d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/Collections Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/out/production/Collections Test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/out/production/Collections Test/Stadium.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/out/production/Collections Test/Team.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/src/Stadium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections Test/src/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enumerados/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enumerados/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enumerados/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enumerados/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enumerados/Enumerados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enumerados/out/production/Enumerados/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enumerados/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Enumerados/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/shapes/PointComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Human/src/Earth_Surface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/Pratica6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/out/production/Pratica6/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Shapes/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Shapes/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Shapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Vehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Vehicles/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pratica6/src/Vehicles/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner test/Ficha 7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Rational.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner test/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner test/src/Rational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scanner test/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scanner test/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scanner test/src/StudentsComparatorByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scanner test/src/StudentsComparatorByNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/shapes/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/shapes/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/shapes/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/shapes/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ficha6/pt/uma/tpsi/arqd/vehicles/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/shapes/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/shapes/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/vehicles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/vehicles/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pt/uma/tpsi/arqd/vehicles/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Human/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Human/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Human/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Human/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Rational.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Rational.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scanner test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Scanner test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scanner test/src/Rational.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Scanner test/src/Rational.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,11 +79,6 @@
           <url>file://$PROJECT_DIR$/src/pt/uma/tpsi/arqd/vehicles/Main.java</url>
           <line>21</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pt/uma/tpsi/arqd/vehicles/Main.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
