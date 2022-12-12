@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c1ee52-b55d-4a96-8f68-2d2504cf6d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Scanner test/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner test/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner test/src/StudentsComparatorByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scanner test/src/StudentsComparatorByNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha8/src/Smart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficha8/src/SmartThermostat.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Rational.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Scanner test/out/production/Ficha 7/Rational.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scanner test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Scanner test/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scanner test/src/Rational.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Scanner test/src/Rational.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
